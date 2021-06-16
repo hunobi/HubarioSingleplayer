@@ -1,0 +1,15 @@
+C:\Users\hubci\Desktop\Programy i Aplikacje\C#\Projekty\Projekt_10_HubArioSinglePlayer\HubArioSinglePlayer\HubArioSinglePlayer\bin\Debug\HubArioSinglePlayer.exe.config
+C:\Users\hubci\Desktop\Programy i Aplikacje\C#\Projekty\Projekt_10_HubArioSinglePlayer\HubArioSinglePlayer\HubArioSinglePlayer\bin\Debug\HubArioSinglePlayer.exe
+C:\Users\hubci\Desktop\Programy i Aplikacje\C#\Projekty\Projekt_10_HubArioSinglePlayer\HubArioSinglePlayer\HubArioSinglePlayer\bin\Debug\HubArioSinglePlayer.pdb
+C:\Users\hubci\Desktop\Programy i Aplikacje\C#\Projekty\Projekt_10_HubArioSinglePlayer\HubArioSinglePlayer\HubArioSinglePlayer\obj\Debug\HubArioSinglePlayer.csprojAssemblyReference.cache
+C:\Users\hubci\Desktop\Programy i Aplikacje\C#\Projekty\Projekt_10_HubArioSinglePlayer\HubArioSinglePlayer\HubArioSinglePlayer\obj\Debug\MainWindow.g.cs
+C:\Users\hubci\Desktop\Programy i Aplikacje\C#\Projekty\Projekt_10_HubArioSinglePlayer\HubArioSinglePlayer\HubArioSinglePlayer\obj\Debug\App.g.cs
+C:\Users\hubci\Desktop\Programy i Aplikacje\C#\Projekty\Projekt_10_HubArioSinglePlayer\HubArioSinglePlayer\HubArioSinglePlayer\obj\Debug\HubArioSinglePlayer_MarkupCompile.cache
+C:\Users\hubci\Desktop\Programy i Aplikacje\C#\Projekty\Projekt_10_HubArioSinglePlayer\HubArioSinglePlayer\HubArioSinglePlayer\obj\Debug\MainWindow.baml
+C:\Users\hubci\Desktop\Programy i Aplikacje\C#\Projekty\Projekt_10_HubArioSinglePlayer\HubArioSinglePlayer\HubArioSinglePlayer\obj\Debug\HubArioSinglePlayer.g.resources
+C:\Users\hubci\Desktop\Programy i Aplikacje\C#\Projekty\Projekt_10_HubArioSinglePlayer\HubArioSinglePlayer\HubArioSinglePlayer\obj\Debug\HubArioSinglePlayer.Properties.Resources.resources
+C:\Users\hubci\Desktop\Programy i Aplikacje\C#\Projekty\Projekt_10_HubArioSinglePlayer\HubArioSinglePlayer\HubArioSinglePlayer\obj\Debug\HubArioSinglePlayer.csproj.GenerateResource.cache
+C:\Users\hubci\Desktop\Programy i Aplikacje\C#\Projekty\Projekt_10_HubArioSinglePlayer\HubArioSinglePlayer\HubArioSinglePlayer\obj\Debug\HubArioSinglePlayer.csproj.CoreCompileInputs.cache
+C:\Users\hubci\Desktop\Programy i Aplikacje\C#\Projekty\Projekt_10_HubArioSinglePlayer\HubArioSinglePlayer\HubArioSinglePlayer\obj\Debug\HubArioSinglePlayer.exe
+C:\Users\hubci\Desktop\Programy i Aplikacje\C#\Projekty\Projekt_10_HubArioSinglePlayer\HubArioSinglePlayer\HubArioSinglePlayer\obj\Debug\HubArioSinglePlayer.pdb
+C:\Users\hubci\Desktop\Programy i Aplikacje\C#\Projekty\Projekt_10_HubArioSinglePlayer\HubArioSinglePlayer\HubArioSinglePlayer\obj\Debug\HubArioSinglePlayer_MarkupCompile.lref
