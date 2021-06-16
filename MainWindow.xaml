@@ -1,0 +1,39 @@
+﻿<Window x:Class="HubArioSinglePlayer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HubArioSinglePlayer"
+        mc:Ignorable="d"
+        Title="HubArio - Single Player" Height="807" Width="1210" Background="Black" WindowStartupLocation="CenterScreen" ResizeMode="CanMinimize" Margin="0,0,0,0" BorderThickness="0" KeyDown="Hero_Move">
+    <Grid Name="Mapa" Height="760" Width="1000" Background="Black" VerticalAlignment="Top" HorizontalAlignment="Left">
+        <Ellipse Name="Hero" Fill="#FFFF3C03" HorizontalAlignment="Left" Height="40" Width="40" Stroke="Black" VerticalAlignment="Top" Margin="400,300,0,0" />
+        <Grid Name="MenuBoczne" HorizontalAlignment="Left" Height="768" Margin="1010,0,-205,-8" VerticalAlignment="Top" Width="195" Background="#FF0D1234">
+            <Label Content="Wynik" HorizontalAlignment="Center" Margin="10,10,0,0" VerticalAlignment="Top" Height="45" Width="155" Background="{x:Null}" Foreground="#FFFFEE02" FontSize="22" FontFamily="Snap ITC" HorizontalContentAlignment="Center"/>
+            <Label Name="Label_Player_Scores" Content="0" HorizontalAlignment="Left" Margin="15,55,0,0" VerticalAlignment="Top" Foreground="#FF00FF1F" Width="150" HorizontalContentAlignment="Center" FontSize="20" FontFamily="Tempus Sans ITC"/>
+            <Ellipse HorizontalAlignment="Left" Height="10" Margin="10,105,0,0" Stroke="Black" VerticalAlignment="Top" Width="175">
+                <Ellipse.Fill>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FF68E40E" Offset="0"/>
+                        <GradientStop Color="#FFEB1818" Offset="0.625"/>
+                        <GradientStop Color="#FF979A11" Offset="0.635"/>
+                    </LinearGradientBrush>
+                </Ellipse.Fill>
+            </Ellipse>
+            <Label Content="Kordy" HorizontalAlignment="Center" Margin="10,140,10,0" VerticalAlignment="Top" Height="45" Width="155" Background="{x:Null}" Foreground="#FFFFEE02" FontSize="22" FontFamily="Snap ITC" HorizontalContentAlignment="Center"/>
+            <Label Name="Label_Player_Cord" Content="[0 , 0]" HorizontalAlignment="Left" Margin="15,185,0,0" VerticalAlignment="Top" Foreground="#FFD42544" Width="150" HorizontalContentAlignment="Center" FontSize="16" FontFamily="Snap ITC" Background="{x:Null}"/>
+            <Ellipse HorizontalAlignment="Left" Height="10" Margin="10,245,0,0" Stroke="Black" VerticalAlignment="Top" Width="175">
+                <Ellipse.Fill>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FF68E40E" Offset="0"/>
+                        <GradientStop Color="#FFEB1818" Offset="0.625"/>
+                        <GradientStop Color="#FF979A11" Offset="0.635"/>
+                    </LinearGradientBrush>
+                </Ellipse.Fill>
+            </Ellipse>
+        </Grid>
+
+    </Grid>
+
+
+</Window>
